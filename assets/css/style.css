@@ -890,6 +890,13 @@ textarea.input {
   opacity: 0.8;
 }
 
+.contact{
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
 /*=========================================================
 	BLOG
 ===========================================================*/
