@@ -504,6 +504,13 @@ textarea.input {
   width: 100%
 }
 
+.categories-img>img {
+  width: 50%;
+  height: auto;
+  margin-bottom:32%;
+  margin-left:25%;
+}
+
 .speaker .speaker-body {
   position: absolute;
   bottom: 0px;
