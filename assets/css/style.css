@@ -511,6 +511,11 @@ textarea.input {
   margin-left:25%;
 }
 
+.supportingOrgs-img>img {
+  width: 40%;
+  height: auto;
+}
+
 .speaker .speaker-body {
   position: absolute;
   bottom: 0px;
@@ -798,8 +803,23 @@ textarea.input {
   opacity: 0.6;
 }
 
-.sponsor>img {
+.sponsorImg {
   width: 100%;
+  height: auto;
+  padding: 5%;
+}
+
+.sponsorRow {
+  padding: 5%;
+  margin-left: 10%;
+}
+
+#sponsor > .container > .row{
+  margin-left: 10px;
+}
+
+.organizersImg {
+  margin-left: 20%;
 }
 
 /*=========================================================
