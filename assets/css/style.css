@@ -809,13 +809,13 @@ textarea.input {
   padding: 5%;
 }
 
+#sponsor > .container > .row{
+  margin-left: 10px;
+}
+
 .sponsorRow {
   padding: 5%;
   margin-left: 10%;
-}
-
-#sponsor > .container > .row{
-  margin-left: 10px;
 }
 
 .organizersImg {
