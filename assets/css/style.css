@@ -205,7 +205,6 @@ textarea.input {
 #header:not(.transparent-navbar) .navbar-brand .logo .logo-alt-img {
   display: none;
 }
-
 /*=========================================================
 	NAVIGATION
 ===========================================================*/
@@ -501,7 +500,7 @@ textarea.input {
 }
 
 .speaker .speaker-img>img {
-  width: 100%
+  width: 100%;
 }
 
 .categories-img>img {
