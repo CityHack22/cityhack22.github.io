@@ -9,7 +9,7 @@
 - < Team Member 4 >
 - < Team Member 5 >
 
-## Description of the Project
+## Description of the Project (300 words)
 
 ## 3 Most Impactful Features of the Project (with Screenshot and Short Description (150 words))
 1. < First Feature >
