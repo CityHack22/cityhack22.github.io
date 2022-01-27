@@ -1,6 +1,7 @@
 # CityHack22 Project Submission
 ## Project: < Your CityHack22 Project Name >
-< Project Logo >
+< Project Logo Below >
+<img src="../assets/img/LOGOS/logo1.png" width="200" alt="project_logo"/>
 ## Team: < Your Team Name >
 ## Members
 - < Team Member 1 >
