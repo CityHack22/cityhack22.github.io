@@ -26,4 +26,3 @@
 
 ## Links
 - < 3 minute Youtube Video Link for Project Demo >
-- < The Project Presentation Slides Link >
