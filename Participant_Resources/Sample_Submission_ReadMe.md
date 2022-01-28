@@ -24,6 +24,5 @@
 3. < Tech >
 4. < Tech >
 
-## Links
+## Link
 - < 3 minute Youtube Video Link for Project Demo >
-- < The Project Presentation Slides Link >
