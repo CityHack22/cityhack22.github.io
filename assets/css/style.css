@@ -97,6 +97,7 @@ ul, ol {
   border-radius: 2px;
   -webkit-transition: 0.3s all;
   transition: 0.3s all;
+  width: 40%;
 }
 
 .main-btn:hover, .main-btn:focus {
